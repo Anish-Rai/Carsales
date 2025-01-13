@@ -37,4 +37,4 @@ Aggregated and analytics-ready data for BI tools.
 Optimized for reporting and visualization.
 
 ### 🔗 Read the full article on Medium:  
-[What I Learned from Building this pipeline]([(https://medium.com/@anish.rai3737/implementing-slowly-changing-dimension-scd-type-1-and-type-2-1097172f54fc)])
+[What I Learned from Building this pipeline](https://medium.com/@anish.rai3737/implementing-slowly-changing-dimension-scd-type-1-and-type-2-1097172f54fc)
